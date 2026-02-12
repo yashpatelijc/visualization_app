@@ -6,4 +6,5 @@ pandasgui
 pyparsing
 graphviz
 fpdf
+setuptools
 
