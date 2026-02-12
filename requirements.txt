@@ -5,4 +5,5 @@ plotly
 pandasgui
 pyparsing
 graphviz
+pkg_resources
 fpdf
